@@ -1,0 +1,7 @@
+
+sources:
+  - name: PETS
+    database: PETS  
+    schema: PETS_SCHEMA  
+    tables:
+      - name: PETS
