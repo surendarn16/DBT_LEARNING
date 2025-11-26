@@ -5,3 +5,10 @@ sources:
     schema: PETS_SCHEMA  
     tables:
       - name: PETS
+
+  - name: DEMO
+    database: DEMO
+    schema: DEMO_SCHEMA
+    tables:
+      - name: BIKE
+      - name: WEATHER
